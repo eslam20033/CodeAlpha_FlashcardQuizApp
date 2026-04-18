@@ -24,7 +24,7 @@ A professional, interactive Flashcard Quiz application built with Flutter. This 
   <img src="https://github.com/user-attachments/assets/d3e8ec7c-55ca-49c3-8cdc-0d82ebe4d5ef" width="180" />
   <img src="https://github.com/user-attachments/assets/d65bb172-0a71-42cf-9804-2418d030684f" width="180" />
   <img src="https://github.com/user-attachments/assets/7ce13bd0-fc59-4f0b-a6e1-7fe5a669ed50" width="180" />
-  <img src="https://github.com/user-attachments/assets/e28b7471-1996-45f0-a39b-7b2ef5992733" width="180" />
+  <img src="https://github.com/user-attachments/assets/e28b7471-1996-45f0-a39b-7b2ef5992733" width="225" />
 </p>
 
 ## 📂 Project Structure
